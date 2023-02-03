@@ -1,1 +1,0 @@
-{"ast":null,"code":"import MeetupDetail from './co';","map":{"version":3,"sources":["C:/Users/deepa/Documents/Udemy Learning/Next.Js Project/pages/[meetupId]/index.js"],"names":["MeetupDetail"],"mappings":"AAAA,OAAOA,YAAP,MAAyB,MAAzB","sourcesContent":["import MeetupDetail from './co'"]},"metadata":{},"sourceType":"module"}
